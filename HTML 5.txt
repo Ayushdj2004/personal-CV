@@ -1,0 +1,100 @@
+my first website page
+
+<center>
+<hr size = "3" noshade>
+<h1>ThIS WEBSITE HEADING 
+<br>
+IS CREATED</h1>
+<br>
+<h3>by</h3> 
+<br>
+<h2>ayush jakhmola</h2>
+<hr size = "3" noshade>
+</center> 
+
+for head 
+<head>
+ <meta charset="UTF-8" />
+    <title>Ayush's personal website</title>
+</head>
+
+
+for heading 
+
+<h1>this is first heading type</h1>
+<h2>this is second heading type</h2>
+<h3>this is third heading type</h3>
+<h4>this is fouth heading type</h4>
+<h5>this is fifth heading type</h5>
+<h6>this is fifth heading type</h6>
+ 
+NOTES : 
+
+.for center write <center></center>
+.for breaking of line or living space <br>{self closing tag}
+.for commenting any line <!--  -->
+
+for font change into italic
+
+<em></em> This tag is use to emphasis the sentence,the font style get in italic
+<i></i> This tag is use to change the sentence into italic form
+<b></b> use to bold the sentence
+<strong></strong> This tag is use to change the sentence into bold italic style 
+
+for making list of point 
+
+<ul> <li> </li> </ul> unordered list 
+<ol> <li> </li> </ul> ordered list 
+
+Example: 
+
+1.first
+3.third
+5.fifth
+
+code : 
+<ul> 
+<li> first </li> 
+<li value = 3>third</li>
+<li value = 5>fifth</li>
+</ul>
+
+Example: 
+
+i.first
+ii.second
+
+code :
+
+<ol type = "i"> 
+<li> first </li> 
+<li>second</li>
+</ol>
+
+Image 
+
+<img src = "" alt = "">
+src - source 
+alt - alternative method to find the source
+
+for alignment 
+
+there are three tag 
+if we want to put whole page in center
+<center> </center>
+but if we want to put a line or para then
+<p align = "right"> right </p>
+<p align = "left"> left </p>
+<p align = "center"> center </p>
+  
+for form :
+
+
+
+
+
+
+
+
+
+

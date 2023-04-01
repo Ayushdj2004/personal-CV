@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Browser</title>
+</head>
+
+<body>
+  <h1>
+    Write, edit and run HTML, CSS and JavaScript code online.
+  </h1>
+</body>
+
+</html>
